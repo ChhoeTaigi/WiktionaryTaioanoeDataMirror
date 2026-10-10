@@ -1,0 +1,3646 @@
+{
+  "counts": {
+    "pages_total": 23024,
+    "pages_poj_not_taigi": 496,
+    "pages_poj": 787,
+    "rows_poj_title_with_hanji": 263,
+    "rows_hanji_multiple": 10,
+    "readings": 19092,
+    "readings_annotated": 1169,
+    "pojt_pages": 150,
+    "pages_index": 50,
+    "pages_redirect": 493,
+    "pages_other": 5095,
+    "pages_hanji_no_reading": 378,
+    "pages_reading": 15725,
+    "readings_first_annotated": 348,
+    "rows_poj_title_with_reading": 14,
+    "pojt_mismatch": 4,
+    "rows_reading_title_not_hanji": 1,
+    "readings_from_nan_pron": 11,
+    "pages_other_dialect_only": 4,
+    "rows": 16512,
+    "rows_poj_title": 787,
+    "rows_reading_title": 15725,
+    "rows_text_corrected": 17,
+    "rows_multi_tone": 0,
+    "multi_tone_distinct_words": 0,
+    "rows_caron": 1,
+    "rows_translated": 228,
+    "readings_not_poj": 27,
+    "reading_lines_unparsed": 0,
+    "rows_PojUnicodeOthers": 3184,
+    "rows_PojInputOthers": 3184,
+    "rows_HanLoTaibunPoj": 15988,
+    "rows_Hunlui": 714,
+    "rows_KaisoehPoj": 741,
+    "rows_KaisoehHanLoPoj": 2211,
+    "rows_EngBun": 208,
+    "rows_HoaBun": 188,
+    "rows_JitBun": 178,
+    "rows_corrected: o· → o͘": 18
+  },
+  "corrections": [
+    [
+      "full-width punctuation → ASCII",
+      0
+    ],
+    [
+      "o· → o͘",
+      18
+    ],
+    [
+      "ı̍ / ἰ → i̍",
+      0
+    ],
+    [
+      "non-breaking hyphen → -",
+      0
+    ],
+    [
+      "space before (",
+      0
+    ],
+    [
+      "hyphens between run-together syllables",
+      0
+    ]
+  ],
+  "hyphenated_words": [],
+  "corrected_rows": [
+    {
+      "title": "só·-í",
+      "column": "PojUnicode",
+      "written": "só·-í",
+      "corrected": "só͘-í",
+      "corrections": [
+        "o· → o͘"
+      ]
+    },
+    {
+      "title": "鄒",
+      "column": "reading",
+      "written": "Cho·",
+      "corrected": "Cho͘",
+      "corrections": [
+        "o· → o͘"
+      ]
+    },
+    {
+      "title": "吳",
+      "column": "reading",
+      "written": "Gô·",
+      "corrected": "Gô͘",
+      "corrections": [
+        "o· → o͘"
+      ]
+    },
+    {
+      "title": "吳",
+      "column": "reading",
+      "written": "Ngô·",
+      "corrected": "Ngô͘",
+      "corrections": [
+        "o· → o͘"
+      ]
+    },
+    {
+      "title": "許",
+      "column": "reading",
+      "written": "Khó·",
+      "corrected": "Khó͘",
+      "corrections": [
+        "o· → o͘"
+      ]
+    },
+    {
+      "title": "Eⁿ-go·-lē",
+      "column": "PojUnicode",
+      "written": "Eⁿ-go·-lē",
+      "corrected": "Eⁿ-go͘-lē",
+      "corrections": [
+        "o· → o͘"
+      ]
+    },
+    {
+      "title": "盧",
+      "column": "reading",
+      "written": "Lô·",
+      "corrected": "Lô͘",
+      "corrections": [
+        "o· → o͘"
+      ]
+    },
+    {
+      "title": "毛",
+      "column": "reading",
+      "written": "Mô·",
+      "corrected": "Mô͘",
+      "corrections": [
+        "o· → o͘"
+      ]
+    },
+    {
+      "title": "胡",
+      "column": "reading",
+      "written": "Ô·",
+      "corrected": "Ô͘",
+      "corrections": [
+        "o· → o͘"
+      ]
+    },
+    {
+      "title": "niáu-chhú",
+      "column": "reading",
+      "written": "nó·-chhú",
+      "corrected": "nó͘-chhú",
+      "corrections": [
+        "o· → o͘"
+      ]
+    },
+    {
+      "title": "chit-sò·",
+      "column": "PojUnicode",
+      "written": "chit-sò·",
+      "corrected": "chit-sò͘",
+      "corrections": [
+        "o· → o͘"
+      ]
+    },
+    {
+      "title": "sng-sò·",
+      "column": "PojUnicode",
+      "written": "sng-sò·",
+      "corrected": "sng-sò͘",
+      "corrections": [
+        "o· → o͘"
+      ]
+    },
+    {
+      "title": "kong-bō·",
+      "column": "PojUnicode",
+      "written": "kong-bō·",
+      "corrected": "kong-bō͘",
+      "corrections": [
+        "o· → o͘"
+      ]
+    },
+    {
+      "title": "thòaⁿ-sò·",
+      "column": "PojUnicode",
+      "written": "thòaⁿ-sò·",
+      "corrected": "thòaⁿ-sò͘",
+      "corrections": [
+        "o· → o͘"
+      ]
+    },
+    {
+      "title": "chúi-sò·",
+      "column": "PojUnicode",
+      "written": "chúi-sò·",
+      "corrected": "chúi-sò͘",
+      "corrections": [
+        "o· → o͘"
+      ]
+    },
+    {
+      "title": "ho·-khip hē-thóng",
+      "column": "PojUnicode",
+      "written": "ho·-khip hē-thóng",
+      "corrected": "ho͘-khip hē-thóng",
+      "corrections": [
+        "o· → o͘"
+      ]
+    },
+    {
+      "title": "hō·-kó",
+      "column": "PojUnicode",
+      "written": "hō·-kó",
+      "corrected": "hō͘-kó",
+      "corrections": [
+        "o· → o͘"
+      ]
+    },
+    {
+      "title": "sò·-kó",
+      "column": "PojUnicode",
+      "written": "sò·-kó",
+      "corrected": "sò͘-kó",
+      "corrections": [
+        "o· → o͘"
+      ]
+    }
+  ],
+  "reading_notes": [
+    [
+      "文",
+      538
+    ],
+    [
+      "替",
+      526
+    ],
+    [
+      "俗",
+      23
+    ],
+    [
+      "合音",
+      10
+    ],
+    [
+      "qz",
+      6
+    ],
+    [
+      "zz",
+      6
+    ],
+    [
+      "俗音",
+      6
+    ],
+    [
+      "twv",
+      4
+    ],
+    [
+      "tw",
+      2
+    ],
+    [
+      "xm,tp",
+      2
+    ],
+    [
+      "zz,kh",
+      2
+    ],
+    [
+      "zz,twv",
+      2
+    ],
+    [
+      "又唸作",
+      2
+    ],
+    [
+      "泉",
+      2
+    ],
+    [
+      "漳腔",
+      2
+    ],
+    [
+      "jj,ph",
+      1
+    ],
+    [
+      "kh",
+      1
+    ],
+    [
+      "ml,tw,pn",
+      1
+    ],
+    [
+      "pn",
+      1
+    ],
+    [
+      "qz,ph",
+      1
+    ],
+    [
+      "qz,tw",
+      1
+    ],
+    [
+      "qz,tw,xm",
+      1
+    ],
+    [
+      "qz,twv",
+      1
+    ],
+    [
+      "sx,qz,km",
+      1
+    ],
+    [
+      "tn,lk",
+      1
+    ],
+    [
+      "tp,kh,tn,lk,sx,yl,hc,tc",
+      1
+    ],
+    [
+      "tw,xm",
+      1
+    ],
+    [
+      "twq",
+      1
+    ],
+    [
+      "twq,ta,ph,pn,sg",
+      1
+    ],
+    [
+      "twq,xm,qz",
+      1
+    ],
+    [
+      "twvk",
+      1
+    ],
+    [
+      "twvt",
+      1
+    ],
+    [
+      "twz",
+      1
+    ],
+    [
+      "twz,xm,zz",
+      1
+    ],
+    [
+      "twz,zz",
+      1
+    ],
+    [
+      "xm",
+      1
+    ],
+    [
+      "xm,km,twv",
+      1
+    ],
+    [
+      "xm,qz,tp",
+      1
+    ],
+    [
+      "xm,qz,tw",
+      1
+    ],
+    [
+      "xm,qz,zz,tw",
+      1
+    ],
+    [
+      "xm,tw,zz",
+      1
+    ],
+    [
+      "xm,zz,tw",
+      1
+    ],
+    [
+      "xm,zz,tw,pn",
+      1
+    ],
+    [
+      "xm,zz,twv,pn",
+      1
+    ],
+    [
+      "俗、替",
+      1
+    ],
+    [
+      "前者音變",
+      1
+    ],
+    [
+      "又音",
+      1
+    ],
+    [
+      "合",
+      1
+    ],
+    [
+      "日語予備借音",
+      1
+    ],
+    [
+      "替、文",
+      1
+    ],
+    [
+      "白話",
+      1
+    ]
+  ],
+  "readings_not_poj": [
+    [
+      "向",
+      "ànn"
+    ],
+    [
+      "哥",
+      "kő"
+    ],
+    [
+      "昨昏",
+      "cha̋ng"
+    ],
+    [
+      "清代",
+      "Tsheng-tāi"
+    ],
+    [
+      "呼",
+      "honn"
+    ],
+    [
+      "親情五十",
+      "chhin-chiânn-gō͘-cha̍p"
+    ],
+    [
+      "揤",
+      "tshi̍h"
+    ],
+    [
+      "來去",
+      "la̋i"
+    ],
+    [
+      "心驚膽嚇",
+      "sim-kiaⁿ-táⁿ-hiahⁿ"
+    ],
+    [
+      "猴齊天",
+      "Kâu Tsê-thian"
+    ],
+    [
+      "註生娘娘",
+      "Tsù-seⁿ-niû-niû"
+    ],
+    [
+      "註生娘娘",
+      "Tsù-siⁿ-niû-niû"
+    ],
+    [
+      "連鞭",
+      "liâm-pinn"
+    ],
+    [
+      "查某囝",
+      "cha̋u-kiáⁿ"
+    ],
+    [
+      "澩澩",
+      "ha̍uhⁿ-ha̍uhⁿ"
+    ],
+    [
+      "無要緊",
+      "boa̋-kín"
+    ],
+    [
+      "貨",
+      "hònn"
+    ],
+    [
+      "抑是",
+      "á-sǐ"
+    ],
+    [
+      "轎車椅",
+      "kiǒ-chhia-í"
+    ],
+    [
+      "胭脂茄",
+      "ian-chsi-kiô"
+    ],
+    [
+      "頓",
+      "tuìnn"
+    ],
+    [
+      "回朝",
+      "hhê-tiâu"
+    ],
+    [
+      "準拄煞",
+      "tsún-tú-soah"
+    ],
+    [
+      "食人夠夠",
+      "tsia̍h-lâng-kàu-kàu"
+    ],
+    [
+      "𠢕早",
+      "gâu-tsá"
+    ],
+    [
+      "烏天暗地",
+      "oo-thinn-àm-tē"
+    ],
+    [
+      "烏天暗地",
+      "oo-thinn-àm-tuē"
+    ]
+  ],
+  "reading_lines_unparsed": [],
+  "hanji_multiple": [
+    [
+      "lâng",
+      "人/儂/聾"
+    ],
+    [
+      "bâng",
+      "毋通/嘜"
+    ],
+    [
+      "tōng-bu̍t-hn̂g",
+      "動物圂/動物園"
+    ],
+    [
+      "ka",
+      "家/鳩/鉸/加"
+    ],
+    [
+      "lâm",
+      "藍/南"
+    ],
+    [
+      "tan-to̍k",
+      "丹毒/單獨"
+    ],
+    [
+      "tiān-ōe",
+      "電話/电话"
+    ],
+    [
+      "am-khàm",
+      "掩崁/掩蓋"
+    ],
+    [
+      "kun-goân",
+      "根原/根源"
+    ],
+    [
+      "thoân-thóng",
+      "傳統/伝統"
+    ]
+  ],
+  "pojt_mismatch": [
+    [
+      "chôa",
+      "choa3",
+      "choa5"
+    ],
+    [
+      "gí-giân",
+      "gí-giân, gú-giân, gý-giân",
+      "gi2-gian5"
+    ],
+    [
+      "Tiong-hôa Jîn-bîn Kiōng-hô-kok Hiong-káng Te̍k-pia̍t Hêng-chèng-khu",
+      "Tiong-hoa5 Jin5-bin5 Kiong5-ho5-kok Hiong-kang2 Tek8-piat8 Heng5-cheng3-khu",
+      "Tiong-hoa5 Jin5-bin5 Kiong7-ho5-kok Hiong-kang2 Tek8-piat8 Heng5-cheng3-khu"
+    ],
+    [
+      "Soviet Siā-hōe-chú-gī Kiōng-hô-kok Liân-ha̍p",
+      "Soviet Siā-hōe-chú-gī Kiōng-hô-kok Liân-ha̍p",
+      "Soviet Sia7-hoe7-chu2-gi7 Kiong7-ho5-kok Lian5-hap8"
+    ]
+  ],
+  "multi_tone_words": [],
+  "multi_tone_words_all": [],
+  "caron_rows": [
+    "kiǒ-chhia-í"
+  ],
+  "poj_not_taigi": [
+    "Thâu-ia̍h",
+    "a",
+    "aⁿ",
+    "b",
+    "cH",
+    "m",
+    "l",
+    "h",
+    "o",
+    "g",
+    "cHH",
+    "e",
+    "eⁿ",
+    "iⁿ",
+    "j",
+    "k",
+    "kH",
+    "ha̍p-im-jī",
+    "tian-tò ê sû",
+    "sin hoat-bêng ê iōng-sû",
+    "dictionary jī-tián a",
+    "dictionary jī-tián b",
+    "dictionary jī-tián c",
+    "dictionary jī-tián d",
+    "dictionary jī-tián e",
+    "dictionary jī-tián f",
+    "dictionary jī-tián h",
+    "dictionary jī-tián i",
+    "dictionary jī-tián j",
+    "dictionary jī-tián k",
+    "dictionary jī-tián l",
+    "dictionary jī-tián m",
+    "dictionary jī-tián n",
+    "dictionary jī-tián g",
+    "dictionary jī-tián o",
+    "dictionary jī-tián p",
+    "dictionary jī-tián q",
+    "dictionary jī-tián r",
+    "dictionary jī-tián s",
+    "dictionary jī-tián t",
+    "dictionary jī-tián u",
+    "dictionary jī-tián v",
+    "dictionary jī-tián w",
+    "dictionary jī-tián x",
+    "dictionary jī-tián y",
+    "dictionary jī-tián z",
+    "Hi-sû lia̍t-toaⁿ",
+    "khin-siaⁿ",
+    "eng漢POJ jī-tián a",
+    "eng漢POJ jī-tián b",
+    "eng漢POJ jī-tián c",
+    "eng漢POJ jī-tián d",
+    "eng漢POJ jī-tián e",
+    "eng漢POJ jī-tián f",
+    "eng漢POJ jī-tián g",
+    "eng漢POJ jī-tián h",
+    "eng漢POJ jī-tián i",
+    "eng漢POJ jī-tián k",
+    "eng漢POJ jī-tián l",
+    "eng漢POJ jī-tián m",
+    "eng漢POJ jī-tián n",
+    "eng漢POJ jī-tián o",
+    "eng漢POJ jī-tián p",
+    "eng漢POJ jī-tián q",
+    "eng漢POJ jī-tián r",
+    "eng漢POJ jī-tián s",
+    "eng漢POJ jī-tián t",
+    "eng漢POJ jī-tián v",
+    "eng漢POJ jī-tián w",
+    "eng漢POJ jī-tián y",
+    "hō-ló chiàⁿ-im",
+    "Sû-lūi/Liân-sû",
+    "but",
+    "ant",
+    "so",
+    "meet",
+    "tao",
+    "sin",
+    "xanh lam",
+    "xanh lá cây",
+    "sur",
+    "joie",
+    "só",
+    "mier",
+    "maar",
+    "net",
+    "biru",
+    "gioia",
+    "paa",
+    "pé",
+    "pie",
+    "main",
+    "parent",
+    "nur",
+    "lek",
+    "Châu Á",
+    "maur",
+    "kun",
+    "A-rập thống nhất Ê-mi-rát",
+    "Selandia Baru",
+    "le Japon",
+    "Việt Nam",
+    "Viêt Nam",
+    "Pháp",
+    "orang",
+    "then",
+    "hoe",
+    "rumput kering",
+    "cỏ khô",
+    "Heu",
+    "tiếng nói",
+    "room",
+    "ruang",
+    "Raum",
+    "bror",
+    "broer",
+    "anh",
+    "em",
+    "brat",
+    "hiiri",
+    "cảnh sát",
+    "Min Nan",
+    "tiếng mân nam",
+    "min nan",
+    "sun",
+    "tiếng Phần-lan",
+    "Greek",
+    "tiếng Việt Nam",
+    "mor",
+    "mère",
+    "má",
+    "u",
+    "Antigua en Barbuda",
+    "Antigua ja Barbuda",
+    "Antigua-et-Barbuda",
+    "Antigua e Barbuda",
+    "Antigua i Barbuda",
+    "Antígua e Barbuda",
+    "Antigua at Barbuda",
+    "tarm",
+    "krop",
+    "lea",
+    "peau",
+    "Haut",
+    "ear",
+    "oor",
+    "perut",
+    "reet",
+    "gat",
+    "hậu môn",
+    "urat",
+    "map",
+    "sang",
+    "máu",
+    "thân",
+    "kan",
+    "book",
+    "saari",
+    "hòn đảo",
+    "chính",
+    "lion",
+    "góra",
+    "or",
+    "oro",
+    "aurum",
+    "ouro",
+    "Ai-déc-bai-gian",
+    "hari senin",
+    "thứ hai",
+    "hari selasa",
+    "hari Selasa",
+    "thứ ba",
+    "sao Thủy",
+    "Terre",
+    "Terra",
+    "Tero",
+    "Tierra",
+    "Uran",
+    "nghĩa trang",
+    "te",
+    "kī",
+    "thé",
+    "tee",
+    "tea",
+    "teh",
+    "tè",
+    "thee",
+    "chà",
+    "trà",
+    "chá",
+    "teo",
+    "té",
+    "Tee",
+    "korea",
+    "korean kieli",
+    "bahasa Korea",
+    "Koreaan",
+    "Korean",
+    "Tiếng Triều Tiên",
+    "thai",
+    "tiếng Thái-lan",
+    "Tai mál",
+    "Thai",
+    "Mát-xcơ-va",
+    "brint",
+    "Republikang Popular ng Tsina",
+    "Cộng hòa Nhân dân Trung Hoa",
+    "eau",
+    "air",
+    "su",
+    "sách bách khoa",
+    "tiếng Pháp",
+    "Pháp ngữ",
+    "Xơ-un",
+    "The Republic of Singapore",
+    "Republika ng Singapore",
+    "Hak-kâ",
+    "Fûi-chiû",
+    "Á-chiû",
+    "Êu-chiû",
+    "sṳ-kie",
+    "Pet-mí-chiû",
+    "Nàm-mí-chiû",
+    "Pet-kîn",
+    "Song-hói",
+    "Chûng-koet",
+    "Sîn-kâ-phô",
+    "Mâ-lòi-sî-á",
+    "Thòi-vân",
+    "Ngit-pún",
+    "Fî-li̍t-pîn",
+    "boek",
+    "bók",
+    "hệ tuần hoàn",
+    "chim đại bàng",
+    "biri-biri",
+    "Maa",
+    "Trái Đất",
+    "Sao Hỏa",
+    "Sao Kim",
+    "Sao Mộc",
+    "Sao Thổ",
+    "Sao Thiên Vương",
+    "Sao Hải Vương",
+    "Sao Diêm Vương",
+    "mang-aawit",
+    "kuda laut",
+    "caballito de mar",
+    "eir",
+    "Republikken Korea",
+    "Republic of Korea",
+    "Republika ng Korea",
+    "Republiko di Korea",
+    "Republik Korea",
+    "Republiek Korea",
+    "Republiek van Korea",
+    "Đại Hàn Dân Quốc",
+    "Lýðveldið Kórea",
+    "Republika Korei",
+    "Respubliko Koreio",
+    "Kore Cumhuriyeti",
+    "Hong Kong Special Administrative Region of the People's Republic of China",
+    "Hong Kong SAR de la République populaire de Chine",
+    "Espesyal na Rehiyong Administratibo ng Hong Kong ng Republika Popular ng Tsina",
+    "Regione Amministrativa Speciale di Hong Kong della Repubblica Popolare Cinese",
+    "Trung Hoa Nhân dân Cộng hòa quốc Hương Cảng Đặc biệt Hành chánh khu",
+    "Kawasan Pentadbiran Khas Wilayah Hong Kong",
+    "Região Administrativa Especial de Hong Kong da República Popular da China",
+    "Región Administrativa Especial de Hong Kong de la República Popular China",
+    "Hong Kong Özel Yönetim Bölgesi",
+    "Den Demokratiske Folkerepublik Korea",
+    "Democratic People's Republic of Korea",
+    "Demokratikong Republika ng Sambayanang Koreano",
+    "Korean demokraattinen kansantasavalta",
+    "Republik Demokratik Rakyat Korea",
+    "Democratische Volksrepubliek Korea",
+    "Volksrepubliek van Korea",
+    "Triều Tiên Dân chủ chủ nghĩa Nhân dân Cộng hòa quốc",
+    "Korea Popola Demokratia Respubliko",
+    "Demokratische Volksrepublik Korea",
+    "Kore Demokratik Halk Cumhuriyeti",
+    "Kaharian ng Espanya",
+    "Vương quốc Tây Ban Nha",
+    "Kaisahan ng mga Republikang Sosyalistang Sovyet",
+    "Unio Rerum Publicarum Socialisticarum Sovieticarum",
+    "Liên bang Cộng hoà Xã hội chủ nghĩa Xô viết",
+    "Nô-en",
+    "Hari Natal",
+    "Père Noël",
+    "heart disease",
+    "khoa học máy tính",
+    "South Korea",
+    "rau mùi",
+    "Chinese leek",
+    "Sosyalistang Republika ng Vietnam",
+    "Cộng hòa Xã hội Chủ nghĩa Việt Nam",
+    "La Socialista Respubliko de Vjetnamo",
+    "earn",
+    "keep",
+    "grant",
+    "treat",
+    "rent",
+    "beer",
+    "hat",
+    "dim sum",
+    "train station",
+    "error",
+    "good point",
+    "train",
+    "air force",
+    "son",
+    "ink pen",
+    "park",
+    "thing",
+    "Great Learning",
+    "hour",
+    "tram",
+    "lamp",
+    "black tea",
+    "wood ear",
+    "tree ear",
+    "rural area",
+    "hero",
+    "bank",
+    "art",
+    "chrysanthenum tea",
+    "skeleton in the closet",
+    "kung fu",
+    "Tai Chi",
+    "The Absolute",
+    "pork",
+    "rouding up the herd with one throw",
+    "amaze the world with a single brillant feat",
+    "set the world on fire",
+    "a bolt from the blue",
+    "no one was expecting much and then with one act",
+    "bemoan the new contender",
+    "work at cross-purposes",
+    "run counter to",
+    "go off in the wrong direction",
+    "part in discord",
+    "break up in disagreement",
+    "end on a sour note",
+    "part on bad terms",
+    "part in dungeon",
+    "not let everyone down",
+    "not let anybody down",
+    "cannot withstand a single blow",
+    "collapse at the first blow",
+    "sincerely yield to another's superiority",
+    "be won over completely",
+    "almost the same",
+    "similar in most aspects",
+    "enduring as the universe",
+    "evil ambitions that are transparent to everyone",
+    "gain an inch and ask for a yard",
+    "the early bird gets the worm",
+    "as long as one is still breathing, one has a chance",
+    "to live, there is always a way out",
+    "a young person is often willing to take risks",
+    "when in Rome, do as the Romans do",
+    "the best is saved for last",
+    "it ain't over until the fat lady sings",
+    "man",
+    "tree",
+    "tree branch",
+    "root",
+    "bark",
+    "meat",
+    "horn",
+    "hair",
+    "leafy sea dragon",
+    "gray heron",
+    "great cormorant",
+    "black-crowned night heron",
+    "night heron",
+    "boar",
+    "great whale",
+    "Goddess of the Yangtze",
+    "sei whale",
+    "American black bear",
+    "grizzly bear",
+    "brown bear",
+    "black bear",
+    "bear",
+    "white bear",
+    "polar bear",
+    "sea bear",
+    "northern bear",
+    "ice bear",
+    "Formosan black bear",
+    "sea cow",
+    "Asiatic black bear",
+    "Tibetan black bear",
+    "Himalayan black bear",
+    "snow bear",
+    "a city that never sleeps",
+    "fine art",
+    "The Book of One Thousand and One Nights",
+    "pop music",
+    "Great Wall of China",
+    "dance out of rage",
+    "EU",
+    "AU",
+    "UN",
+    "World Bank",
+    "oat",
+    "Greek mythology",
+    "Min Dong",
+    "Greek alphabet",
+    "e-mail",
+    "boat",
+    "machine gun",
+    "martial art",
+    "tank",
+    "neon",
+    "iron",
+    "tin",
+    "lung cancer",
+    "rain",
+    "leap year",
+    "lung",
+    "brain",
+    "bat",
+    "bee",
+    "Big Bang",
+    "moon",
+    "bean curd",
+    "hot pot",
+    "alligator pear",
+    "avocado pear",
+    "rack one's brain",
+    "kill the goose that lays the golden eggs",
+    "Doctrine of the Mean",
+    "joint",
+    "hemp",
+    "parrot",
+    "hare",
+    "Iron Age",
+    "Han Dynasty",
+    "Tang Dynasty",
+    "Song Dynasty",
+    "Ming Dynasty",
+    "Korean War",
+    "set theory",
+    "pi",
+    "group theory",
+    "man-made",
+    "troop",
+    "celestial being",
+    "strong point",
+    "merit",
+    "Cao Hùng thị",
+    "Thai-phìn-yòng",
+    "have to",
+    "need to",
+    "turn into",
+    "sort",
+    "run",
+    "gain",
+    "carry out",
+    "thank",
+    "rise up",
+    "get up",
+    "see",
+    "harm",
+    "hear",
+    "work out",
+    "get",
+    "strike while the iron is hot",
+    "soon",
+    "that",
+    "lip",
+    "North Korea",
+    "Republic of the Philippines",
+    "gua",
+    "Tây Ban Nha",
+    "broom",
+    "tee ball",
+    "T-ball",
+    "chi̍t-sut-á",
+    "toron",
+    "peur",
+    "Holopedia ê Iōng-jī",
+    "Yâ-lu-sat-lâng",
+    "parah",
+    "berak",
+    "juru masak",
+    "roh Kudus",
+    "kue",
+    "giok",
+    "máy điện toán",
+    "hoat-khì",
+    "chó",
+    "mèo",
+    "gió"
+  ],
+  "hanji_no_reading": [
+    "奈米",
+    "果物",
+    "病気",
+    "本州",
+    "言葉",
+    "海老",
+    "判子",
+    "日本語",
+    "会社",
+    "試合",
+    "自転車",
+    "田舎",
+    "切符",
+    "映画",
+    "背中",
+    "子供",
+    "伊勢海老",
+    "手紙",
+    "挨拶",
+    "蜻蛉",
+    "芝居",
+    "友達",
+    "大根",
+    "身長",
+    "津波",
+    "時計",
+    "花火",
+    "値段",
+    "計画",
+    "怪我",
+    "井戸",
+    "人民币",
+    "人称",
+    "人类",
+    "人丁",
+    "白俄罗斯语",
+    "澳大利亚",
+    "澳大利亞",
+    "阿尔及利亚",
+    "阿爾及利亞",
+    "安提瓜和巴布达",
+    "安提瓜和巴布達",
+    "亚洲",
+    "欧洲",
+    "歐洲",
+    "白俄羅斯語",
+    "白俄罗斯",
+    "白俄羅斯",
+    "俄羅斯",
+    "俄罗斯",
+    "人材",
+    "日曜日",
+    "土曜日",
+    "金曜日",
+    "木曜日",
+    "水曜日",
+    "火曜日",
+    "月曜日",
+    "阿尔巴尼亚",
+    "阿爾巴尼亞",
+    "阿拉伯联合酋长国",
+    "阿拉伯聯合酋長國",
+    "亚美尼亚",
+    "亞美尼亞",
+    "俳優",
+    "金属",
+    "経済",
+    "携帯電話",
+    "地下鉄",
+    "外来語",
+    "楽器",
+    "公园",
+    "公众",
+    "公雞",
+    "公鸡",
+    "公务",
+    "桜",
+    "意味",
+    "台風",
+    "歴史",
+    "天気",
+    "煉瓦",
+    "戦争",
+    "台所",
+    "蜜柑",
+    "辞書",
+    "字書",
+    "英語",
+    "英语",
+    "日本人",
+    "日本国",
+    "宛名",
+    "公牛",
+    "公羊",
+    "公务员",
+    "公债",
+    "公正",
+    "公证",
+    "公證",
+    "公升",
+    "公款",
+    "公会",
+    "公费",
+    "公費",
+    "医者",
+    "外国語",
+    "空気",
+    "米国",
+    "知恵",
+    "着物",
+    "東京",
+    "东京",
+    "公约",
+    "公用",
+    "公开",
+    "公开信",
+    "公開信",
+    "公顷",
+    "公共",
+    "公关",
+    "公關",
+    "公理",
+    "公釐",
+    "公报",
+    "公布",
+    "公社",
+    "公审",
+    "公審",
+    "公吨",
+    "理睬",
+    "理会",
+    "理會",
+    "気温",
+    "理所当然",
+    "理所當然",
+    "理论",
+    "理論",
+    "理发师",
+    "理髮師",
+    "理髮",
+    "理发",
+    "理直气壮",
+    "理直氣壯",
+    "理事",
+    "理事会",
+    "理事會",
+    "理事長",
+    "理事长",
+    "婴儿",
+    "西藏",
+    "空港",
+    "仏教",
+    "水星",
+    "巴拿马",
+    "巴拿馬",
+    "巴豆",
+    "巴掌",
+    "巴儿狗",
+    "巴兒狗",
+    "巴不得",
+    "巴望",
+    "巴格达",
+    "巴格達",
+    "巴基斯坦",
+    "巴拉圭",
+    "巴黎",
+    "巴林",
+    "巴塞罗那",
+    "巴塞隆納",
+    "隆起",
+    "隆兴",
+    "隆興",
+    "隆乳",
+    "重视",
+    "重叠",
+    "重覆",
+    "重新开始",
+    "重新開始",
+    "重申",
+    "重组",
+    "重組",
+    "重返",
+    "重复",
+    "重複",
+    "重要问题",
+    "重要問題",
+    "重击",
+    "重擊",
+    "重庆",
+    "重慶",
+    "重力",
+    "重点",
+    "京剧",
+    "京劇",
+    "京都",
+    "東京都",
+    "大統領",
+    "政党",
+    "湖口",
+    "湖南",
+    "湖南省",
+    "湖北省",
+    "湖北",
+    "湖泊",
+    "北斗星",
+    "北欧",
+    "北歐",
+    "北美",
+    "北美洲",
+    "北面",
+    "北海",
+    "北海道",
+    "北韩",
+    "北韓",
+    "北方",
+    "北纬",
+    "北緯",
+    "北约",
+    "北約",
+    "北极",
+    "北区",
+    "北區",
+    "北京大学",
+    "北京大學",
+    "北边",
+    "北邊",
+    "北半球",
+    "北回归线",
+    "北回歸線",
+    "北斗",
+    "北投区",
+    "北投區",
+    "北投",
+    "工兵",
+    "北大西洋",
+    "北温带",
+    "北溫帶",
+    "的话",
+    "的話",
+    "的确",
+    "政治性",
+    "国外",
+    "国内",
+    "国民",
+    "国务院",
+    "國務院",
+    "國務",
+    "国务",
+    "国务卿",
+    "國務卿",
+    "国际",
+    "国际化",
+    "國際化",
+    "国际法",
+    "國際法",
+    "国际性",
+    "國際性",
+    "国际特赦组织",
+    "國際特赦組織",
+    "国籍",
+    "國籍",
+    "牙結石",
+    "牙结石",
+    "国情",
+    "国营",
+    "国法",
+    "国会",
+    "国防",
+    "哺乳動物",
+    "哺乳动物",
+    "朝鮮民主主义人民共和国",
+    "朝鮮民主主義人民共和國",
+    "圣诞老人",
+    "聖誕老人",
+    "秦皇岛",
+    "秦皇島",
+    "秦始皇",
+    "海胆",
+    "海膽",
+    "海龟",
+    "海葵",
+    "海啸",
+    "海嘯",
+    "海浪",
+    "海豚",
+    "海藻",
+    "海盗",
+    "海盜",
+    "海星",
+    "海底",
+    "爱人",
+    "安靜",
+    "安静",
+    "办法",
+    "辦公室",
+    "办公室",
+    "半天",
+    "帮助",
+    "杯子",
+    "本子",
+    "比较",
+    "比赛",
+    "必须",
+    "变成",
+    "变化",
+    "表现",
+    "表扬",
+    "别的",
+    "別的",
+    "别人",
+    "汀",
+    "永",
+    "阿拉伯语",
+    "阿拉伯語",
+    "闽南语",
+    "厦门",
+    "廈門",
+    "希腊语",
+    "希臘語",
+    "菲律宾共和国",
+    "菲律賓共和國",
+    "乙",
+    "无论",
+    "论",
+    "麥當勞",
+    "肯德基",
+    "可樂",
+    "七喜",
+    "啞巴",
+    "奶喙仔",
+    "新西兰",
+    "汤加",
+    "帕劳",
+    "瑙鲁",
+    "萨摩亚",
+    "图瓦卢",
+    "斐济",
+    "瓦努阿图",
+    "基里巴斯",
+    "土豆",
+    "烧饼",
+    "五花肉",
+    "荷包蛋",
+    "粽子",
+    "方便面",
+    "米飯",
+    "啤酒",
+    "香蕉",
+    "芳瓜",
+    "把",
+    "禁",
+    "登",
+    "選",
+    "怎",
+    "尿酸",
+    "十二",
+    "翻頭",
+    "山頭",
+    "黃昏市仔",
+    "自摸",
+    "借",
+    "蟲",
+    "戲弄",
+    "蓬萊",
+    "白目",
+    "港",
+    "燒熱",
+    "厝租",
+    "離緣",
+    "塗",
+    "作穡",
+    "無能耐",
+    "蔣樣",
+    "仰般",
+    "事計",
+    "奶仔",
+    "然",
+    "耶和華祝福滿滿"
+  ],
+  "index_pages": [
+    "pe̍h-ōe-jī Sek-ín",
+    "Pe̍h-ōe-jī Sek-ín A",
+    "Pe̍h-ōe-jī Sek-ín B",
+    "Pe̍h-ōe-jī Sek-ín CH",
+    "Pe̍h-ōe-jī Sek-ín U",
+    "Pe̍h-ōe-jī Sek-ín T",
+    "hù-lio̍k:Sek-tì",
+    "Sek-ín:Eng漢POJ",
+    "Pe̍h-ōe-jī Sek-ín Aⁿ",
+    "Sek-ín:jī-sìⁿ",
+    "Sek-ín:Kok-ka miâ",
+    "Sek-ín:Tē-miâ",
+    "Pe̍h-ōe-jī Sek-ín CHH",
+    "Pe̍h-ōe-jī Sek-ín TH",
+    "Pe̍h-ōe-jī Sek-ín E",
+    "Pe̍h-ōe-jī Sek-ín Eⁿ",
+    "Pe̍h-ōe-jī Sek-ín O",
+    "Pe̍h-ōe-jī Sek-ín O·",
+    "Pe̍h-ōe-jī Sek-ín Oⁿ",
+    "Pe̍h-ōe-jī Sek-ín M",
+    "Pe̍h-ōe-jī Sek-ín NG",
+    "Pe̍h-ōe-jī Sek-ín N",
+    "Pe̍h-ōe-jī Sek-ín J",
+    "Pe̍h-ōe-jī Sek-ín G",
+    "Pe̍h-ōe-jī Sek-ín PH",
+    "Pe̍h-ōe-jī Sek-ín I",
+    "Pe̍h-ōe-jī Sek-ín P",
+    "Pe̍h-ōe-jī Sek-ín Iⁿ",
+    "Pe̍h-ōe-jī Sek-ín KH",
+    "Pe̍h-ōe-jī Sek-ín K",
+    "Pe̍h-ōe-jī Sek-ín S",
+    "Pe̍h-ōe-jī Sek-ín L",
+    "Pe̍h-ōe-jī Sek-ín H",
+    "Sek-ín:Khiuⁿ-kháu",
+    "Sek-ín:Khiuⁿ-kháu:Bêng-sû",
+    "Sek-ín:Khiuⁿ-kháu:Hêng-iông-sû",
+    "Hū-le̍k:Hôa-gú Wikipedia Siông Ēng ê Jī",
+    "Hū-le̍k:Hôa-gú Wikipedia Siông Ēng ê Jī/2001",
+    "Hū-le̍k:Hôa-gú Wikipedia Siông Ēng ê Jī/4001",
+    "Hū-le̍k:Hôa-gú Wikipedia Siông Ēng ê Jī/6001",
+    "Hū-le̍k:Hôa-gú Wikipedia Siông Ēng ê Jī/Chin-chōe ēng cha̍p-pái",
+    "Hū-le̍k:Hôa-gú Wikipedia Siông Ēng ê Jī/Chin-chōe ēng nn̄g-pái",
+    "Hū-le̍k:HSK ê Hôa-gú sû ê chheng-toaⁿ",
+    "Sek-ín:A-chiu ê tē-miâ",
+    "Sek-ín:Tiong-hôa Bîn-kok ê tē-miâ",
+    "Appendix:Unicode/Miscellaneous Symbols and Arrows",
+    "Appendix:Eng-gí ê hoat-im",
+    "Appendix:Hiragana",
+    "Appendix:Katakana",
+    "Thâu-ia̍hhttps://zh-min-nan.wiktionary.org/wiki/Thâu-ia̍h"
+  ],
+  "redirects": [
+    [
+      "tian-tó ê sû",
+      "tian-tò ê sû"
+    ],
+    [
+      "hia7",
+      "hiā"
+    ],
+    [
+      "lang5",
+      "lâng"
+    ],
+    [
+      "bang5",
+      "bâng"
+    ],
+    [
+      "A",
+      "a"
+    ],
+    [
+      "Aⁿ",
+      "aⁿ"
+    ],
+    [
+      "B",
+      "b"
+    ],
+    [
+      "CH",
+      "cH"
+    ],
+    [
+      "CHH",
+      "cHH"
+    ],
+    [
+      "Chiù-khí",
+      "chiù-khí"
+    ],
+    [
+      "Current events",
+      "Wiktionary:Siau-sit"
+    ],
+    [
+      "E",
+      "e"
+    ],
+    [
+      "Eⁿ",
+      "eⁿ"
+    ],
+    [
+      "G",
+      "g"
+    ],
+    [
+      "H",
+      "h"
+    ],
+    [
+      "Ha̍p-im-jī",
+      "ha̍p-im-jī"
+    ],
+    [
+      "Hoan",
+      "hoan"
+    ],
+    [
+      "Hù-lio̍k:Sek-tì",
+      "hù-lio̍k:Sek-tì"
+    ],
+    [
+      "Hō-ló chiàⁿ-im",
+      "hō-ló chiàⁿ-im"
+    ],
+    [
+      "I",
+      "i"
+    ],
+    [
+      "Iⁿ",
+      "iⁿ"
+    ],
+    [
+      "J",
+      "j"
+    ],
+    [
+      "K",
+      "k"
+    ],
+    [
+      "KH",
+      "kH"
+    ],
+    [
+      "Khin-siaⁿ",
+      "khin-siaⁿ"
+    ],
+    [
+      "Khûn-poe",
+      "khûn-poe"
+    ],
+    [
+      "L",
+      "l"
+    ],
+    [
+      "M",
+      "m"
+    ],
+    [
+      "Main Page",
+      "Thâu-ia̍h"
+    ],
+    [
+      "Mài",
+      "mài"
+    ],
+    [
+      "O",
+      "o"
+    ],
+    [
+      "Pe̍h-ōe-jī Sek-ín",
+      "pe̍h-ōe-jī Sek-ín"
+    ],
+    [
+      "Sin hoat-bêng ê iōng-sû",
+      "sin hoat-bêng ê iōng-sû"
+    ],
+    [
+      "Sub-",
+      "sub-"
+    ],
+    [
+      "Tian-tò ê sû",
+      "tian-tò ê sû"
+    ],
+    [
+      "Tian-tó ê sû",
+      "tian-tò ê sû"
+    ],
+    [
+      "ge̍h-lāi",
+      "go̍eh-lāi"
+    ],
+    [
+      "Antigua kap Barbuda",
+      "An-thí-gōa kap Ba̍h-bú-tà"
+    ],
+    [
+      "An-tó-là",
+      "An-toh-là"
+    ],
+    [
+      "A-la-pek Liân-ha̍p Thâu-lâng-kok",
+      "A-lá-bià Liân-ha̍p Thâu-lâng-kok"
+    ],
+    [
+      "Ā-lū-bà-nià",
+      "Sū-chiō-pò-lià"
+    ],
+    [
+      "Sū-chiō-pò-li-sō",
+      "Sū-chiō-pò-lià"
+    ],
+    [
+      "Sū-chiō-pò-lī-sò",
+      "Sū-chiō-pò-lià"
+    ],
+    [
+      "Ā-lū-gè-lià",
+      "A-lu-che-jiah-ī-lù"
+    ],
+    [
+      "An-gò-là",
+      "Eⁿ-go·-lē"
+    ],
+    [
+      "Ā-lū-chè-jiah-ī-lù",
+      "A-lu-che-jiah-ī-lù"
+    ],
+    [
+      "Kok-ka miâ",
+      "Sek-ín:Kok-ka miâ"
+    ],
+    [
+      "Ar-gen-thí-nà",
+      "A-lu-gian-thí-nà"
+    ],
+    [
+      "A-lu-gen-thí-nà",
+      "A-lu-gian-thí-nà"
+    ],
+    [
+      "A-lu-gian-thi2-na3",
+      "A-lu-gian-thí-nà"
+    ],
+    [
+      "A-la-pek Lian5-hap8 Thau5-lang5-kok",
+      "A-lá-bià Liân-ha̍p Thâu-lâng-kok"
+    ],
+    [
+      "A-la2-bia3 Lian5-hap8 Thau5-lang5-kok",
+      "A-lá-bià Liân-ha̍p Thâu-lâng-kok"
+    ],
+    [
+      "A-lu-che-jiah-i7-lu3",
+      "A-lu-che-jiah-ī-lù"
+    ],
+    [
+      "A-lu-gen-thi2-na3",
+      "A-lu-gian-thí-nà"
+    ],
+    [
+      "chiap-lap8",
+      "chiap-la̍p"
+    ],
+    [
+      "chiu3-khi2",
+      "chiù-khí"
+    ],
+    [
+      "choe7-ok",
+      "chōe-ok"
+    ],
+    [
+      "chu7-hoe7",
+      "chū-hōe"
+    ],
+    [
+      "geh8-lai7",
+      "go̍eh-lāi"
+    ],
+    [
+      "goeh8-lai7",
+      "go̍eh-lāi"
+    ],
+    [
+      "in-ui7",
+      "in-ūi"
+    ],
+    [
+      "khi3-choat8",
+      "khì-cho̍at"
+    ],
+    [
+      "khun5-poe",
+      "khûn-poe"
+    ],
+    [
+      "ka2-su2",
+      "ká-sú"
+    ],
+    [
+      "ki7-choat8",
+      "kī-cho̍at"
+    ],
+    [
+      "un5-ke",
+      "ûn-ke"
+    ],
+    [
+      "sann-thut8-lou7",
+      "saⁿ-thu̍t-lō͘"
+    ],
+    [
+      "siat-su2",
+      "siat-sú"
+    ],
+    [
+      "sui-jian5",
+      "sui-jiân"
+    ],
+    [
+      "sou2-i2",
+      "só·-í"
+    ],
+    [
+      "tiah-kan2",
+      "tiah-kán"
+    ],
+    [
+      "tiam3-bi7",
+      "tiàm-bī"
+    ],
+    [
+      "te5-bak8",
+      "tê-ba̍k"
+    ],
+    [
+      "toe5-bak8",
+      "tôe-ba̍k"
+    ],
+    [
+      "tan7-si7",
+      "tān-sī"
+    ],
+    [
+      "lō·-chām-pi",
+      "lō͘-chām-pi"
+    ],
+    [
+      "thài-iâng",
+      "thài-iông"
+    ],
+    [
+      "pe̍h-ōe-jī Sek-ín CH",
+      "Pe̍h-ōe-jī Sek-ín CH"
+    ],
+    [
+      "A-rập TN Ê-mi-rát",
+      "A-rập thống nhất Ê-mi-rát"
+    ],
+    [
+      "may dien toan",
+      "máy điện toán"
+    ],
+    [
+      "Tek-gú",
+      "Tek-gí"
+    ],
+    [
+      "nó·-chhú",
+      "niáu-chhú"
+    ],
+    [
+      "kèng-chhat",
+      "kéng-chhat"
+    ],
+    [
+      "chhun-thinn",
+      "chhun-thiⁿ"
+    ],
+    [
+      "hiann-ti7",
+      "hiaⁿ-tī"
+    ],
+    [
+      "te7-gek8",
+      "tē-ga̍k"
+    ],
+    [
+      "toe7-gek8",
+      "tōe-ge̍k"
+    ],
+    [
+      "thian-tong5",
+      "thian-tông"
+    ],
+    [
+      "niau2-chhu2",
+      "niáu-chhú"
+    ],
+    [
+      "niau2-chhi2",
+      "niáu-chhú"
+    ],
+    [
+      "nou2-chhu2",
+      "niáu-chhú"
+    ],
+    [
+      "keng2-chhat",
+      "kéng-chhat"
+    ],
+    [
+      "keng3-chhat",
+      "kéng-chhat"
+    ],
+    [
+      "Enn-gou-le7",
+      "Eⁿ-go·-lē"
+    ],
+    [
+      "Ho7-lo2-oe7",
+      "Hō-ló-oē"
+    ],
+    [
+      "Jit8-gi2",
+      "Ji̍t-gí"
+    ],
+    [
+      "Jit8-pun2",
+      "Ji̍t-pún"
+    ],
+    [
+      "Oat8-lam5",
+      "Oa̍t-lâm"
+    ],
+    [
+      "Pak-kiann",
+      "Pak-kiaⁿ"
+    ],
+    [
+      "Pun2-chiu",
+      "Pún-chiu"
+    ],
+    [
+      "Tang-kiann",
+      "Tang-kiaⁿ"
+    ],
+    [
+      "Tek-gi2",
+      "Tek-gí"
+    ],
+    [
+      "Tek-gu2",
+      "Tek-gí"
+    ],
+    [
+      "Tai7-iunn5-chiu",
+      "Tāi-iûⁿ-chiu"
+    ],
+    [
+      "chhiu2",
+      "chhiú"
+    ],
+    [
+      "choa5",
+      "chôa"
+    ],
+    [
+      "gi2-gian5",
+      "gí-giân"
+    ],
+    [
+      "hoat-inn7",
+      "hoat-īⁿ"
+    ],
+    [
+      "hai2-ang",
+      "hái-ang"
+    ],
+    [
+      "hai2-ti",
+      "hái-ti"
+    ],
+    [
+      "hi2-lok8",
+      "hí-lo̍k"
+    ],
+    [
+      "ioh8",
+      "io̍h"
+    ],
+    [
+      "kha-au7-chan",
+      "kha-aū-chan"
+    ],
+    [
+      "kann3-bu2",
+      "kàⁿ-bú"
+    ],
+    [
+      "lam5",
+      "lâm"
+    ],
+    [
+      "lou7-cham7-pi",
+      "lō͘-chām-pi"
+    ],
+    [
+      "nai2",
+      "nái"
+    ],
+    [
+      "na5-kiu5",
+      "nâ-kiû"
+    ],
+    [
+      "pang5-keng",
+      "pâng-keng"
+    ],
+    [
+      "peng5-cheng7",
+      "pêng-chēng"
+    ],
+    [
+      "ta-chhau2",
+      "ta-chháu"
+    ],
+    [
+      "ta-sian2",
+      "ta-sián"
+    ],
+    [
+      "tan-tok8",
+      "tan-to̍k"
+    ],
+    [
+      "thai3-iong5",
+      "thài-iông"
+    ],
+    [
+      "thai3-iang5",
+      "thài-iông"
+    ],
+    [
+      "tho2-lun7",
+      "thó-lūn"
+    ],
+    [
+      "tian7-nau2",
+      "tiān-náu"
+    ],
+    [
+      "tian7-oe7",
+      "tiān-ōe"
+    ],
+    [
+      "Bân-lâm-gú",
+      "Bân-lâm-gí"
+    ],
+    [
+      "Peng-tē-gú",
+      "Peng-tē-gí"
+    ],
+    [
+      "Ji̍t-gú",
+      "Ji̍t-gí"
+    ],
+    [
+      "Hun-lân-gú",
+      "Hun-lân-gí"
+    ],
+    [
+      "chū-tián",
+      "jī-tián"
+    ],
+    [
+      "se-koe",
+      "si-koe"
+    ],
+    [
+      "sai-koe",
+      "si-koe"
+    ],
+    [
+      "An-thi2-goa7 kap Bah8-bu2-ta3",
+      "An-thí-gōa kap Ba̍h-bú-tà"
+    ],
+    [
+      "Ban5-lam5-gi2",
+      "Bân-lâm-gí"
+    ],
+    [
+      "Ban5-lam5-gu2",
+      "Bân-lâm-gí"
+    ],
+    [
+      "Hun-lan5-gi2",
+      "Hun-lân-gí"
+    ],
+    [
+      "Hun-lan5-gu2",
+      "Hun-lân-gí"
+    ],
+    [
+      "Jit8-gu2",
+      "Ji̍t-gí"
+    ],
+    [
+      "Peng-te7-gi2",
+      "Peng-tē-gí"
+    ],
+    [
+      "Peng-te7-gu2",
+      "Peng-tē-gí"
+    ],
+    [
+      "chu7-tian2",
+      "jī-tián"
+    ],
+    [
+      "ji7-tian2",
+      "jī-tián"
+    ],
+    [
+      "tio5-kha tng3-toe7",
+      "tiô-kha tǹg-tōe"
+    ],
+    [
+      "gú-giân",
+      "gí-giân"
+    ],
+    [
+      "Oa̍t-lâm-gú",
+      "Oa̍t-lâm-gí"
+    ],
+    [
+      "O̍at-lâm-gí",
+      "Oa̍t-lâm-gí"
+    ],
+    [
+      "O̍at-lâm-gú",
+      "Oa̍t-lâm-gí"
+    ],
+    [
+      "tē-ge̍k",
+      "tē-ga̍k"
+    ],
+    [
+      "tōe-ga̍k",
+      "tē-ga̍k"
+    ],
+    [
+      "Hi-lia̍p-gú",
+      "Hi-lia̍p-gí"
+    ],
+    [
+      "Hi-liap8-gi2",
+      "Hi-lia̍p-gí"
+    ],
+    [
+      "Hi-liap8-gu2",
+      "Hi-lia̍p-gí"
+    ],
+    [
+      "Oat8-lam5-gi2",
+      "Oa̍t-lâm-gí"
+    ],
+    [
+      "Oat8-lam5-gu2",
+      "Oa̍t-lâm-gí"
+    ],
+    [
+      "gu2-gian5",
+      "gí-giân"
+    ],
+    [
+      "te7-gak8",
+      "tē-ga̍k"
+    ],
+    [
+      "toe7-gak8",
+      "tē-ga̍k"
+    ],
+    [
+      "In3-ni5-gi2",
+      "Ìn-nî-gí"
+    ],
+    [
+      "kong-mn̂g",
+      "kong-bûn"
+    ],
+    [
+      "ian-hé",
+      "ian-hóe"
+    ],
+    [
+      "chhân-eⁿ",
+      "chhân-iⁿ"
+    ],
+    [
+      "kin-bah",
+      "kun-bah"
+    ],
+    [
+      "人民幣",
+      "人民币"
+    ],
+    [
+      "人稱",
+      "人称"
+    ],
+    [
+      "bah-chhai3",
+      "bah-chhài"
+    ],
+    [
+      "bu2-chhin",
+      "bú-chhin"
+    ],
+    [
+      "chhan5-enn",
+      "chhân-iⁿ"
+    ],
+    [
+      "chhan5-inn",
+      "chhân-iⁿ"
+    ],
+    [
+      "chit-sou3",
+      "chit-sò·"
+    ],
+    [
+      "cheng3-hu2",
+      "chèng-hú"
+    ],
+    [
+      "hiat-ek8",
+      "hiat-e̍k"
+    ],
+    [
+      "he7-liat8",
+      "hē-lia̍t"
+    ],
+    [
+      "hinn7-a2",
+      "hīⁿ-á"
+    ],
+    [
+      "ian-he2",
+      "ian-hóe"
+    ],
+    [
+      "ian-hoe2",
+      "ian-hóe"
+    ],
+    [
+      "ji7-bu2",
+      "jī-bú"
+    ],
+    [
+      "kong-bun5",
+      "kong-bûn"
+    ],
+    [
+      "leng5-liong7",
+      "lêng-liōng"
+    ],
+    [
+      "pai3-it",
+      "pài-it"
+    ],
+    [
+      "pai3-ji7",
+      "pài-jī"
+    ],
+    [
+      "seng-but8",
+      "seng-bu̍t"
+    ],
+    [
+      "sng-sou3",
+      "sng-sò·"
+    ],
+    [
+      "tiong5",
+      "tiông"
+    ],
+    [
+      "to2",
+      "tó"
+    ],
+    [
+      "to2-su7",
+      "tó-sū"
+    ],
+    [
+      "Se-chông",
+      "Se-chōng"
+    ],
+    [
+      "Hóe-chheⁿ",
+      "Hoé-chheⁿ"
+    ],
+    [
+      "Se-chong7",
+      "Se-chōng"
+    ],
+    [
+      "Chui2-chhenn",
+      "Chúi-chheⁿ"
+    ],
+    [
+      "Kim-chhenn",
+      "Kim-chheⁿ"
+    ],
+    [
+      "Hoe2-chhenn",
+      "Hoé-chheⁿ"
+    ],
+    [
+      "Te7-kiu5",
+      "Tē-kiû"
+    ],
+    [
+      "Bok8-chhenn",
+      "Bo̍k-chheⁿ"
+    ],
+    [
+      "Thou2-chhenn",
+      "Thó͘-chheⁿ"
+    ],
+    [
+      "Jit8-pun2-sann",
+      "Ji̍t-pún-saⁿ"
+    ],
+    [
+      "Thinn-ong5-chhenn",
+      "Thiⁿ-ông-chheⁿ"
+    ],
+    [
+      "Hai2-ong5-chhenn",
+      "Hái-ông-chheⁿ"
+    ],
+    [
+      "Thó·-chheⁿ",
+      "Thó͘-chheⁿ"
+    ],
+    [
+      "A-la-pek-gú",
+      "A-la-pek-gí"
+    ],
+    [
+      "Thài-gú",
+      "Thài-gí"
+    ],
+    [
+      "Hân-gú",
+      "Hân-gí"
+    ],
+    [
+      "A-la-pek-gi2",
+      "A-la-pek-gí"
+    ],
+    [
+      "Han5-gi2",
+      "Hân-gí"
+    ],
+    [
+      "Thai3-gi2",
+      "Thài-gí"
+    ],
+    [
+      "Tai5-pak",
+      "Tâi-pak"
+    ],
+    [
+      "Ban7-kok",
+      "Bān-kok"
+    ],
+    [
+      "te5",
+      "tê"
+    ],
+    [
+      "kong-bou7",
+      "kong-bō·"
+    ],
+    [
+      "gi7-tiunn2",
+      "gī-tiúⁿ"
+    ],
+    [
+      "Bok8-su-kho",
+      "Bo̍k-su-kho"
+    ],
+    [
+      "Han3-siann5",
+      "Hàn-siâⁿ"
+    ],
+    [
+      "Siong7-hai2",
+      "Siōng-hái"
+    ],
+    [
+      "Hok-kian3",
+      "Hok-kiàn"
+    ],
+    [
+      "Pa-sai3-liong5-lap8",
+      "Pa-sài-liông-la̍p"
+    ],
+    [
+      "Pa-le5",
+      "Pa-lê"
+    ],
+    [
+      "chui2-sou3",
+      "chúi-sò·"
+    ],
+    [
+      "cheng3-ti7",
+      "chèng-tī"
+    ],
+    [
+      "bak8-chiu",
+      "ba̍k-chiu"
+    ],
+    [
+      "it8",
+      "i̍t"
+    ],
+    [
+      "Kē-tē-gú",
+      "Kē-tē-gí"
+    ],
+    [
+      "Hoat-gú",
+      "Hoat-gí"
+    ],
+    [
+      "중화 인민 공화국",
+      "중화인민공화국"
+    ],
+    [
+      "E7-mng5",
+      "Ē-mn̂g"
+    ],
+    [
+      "Ke7-te7-gi2",
+      "Kē-tē-gí"
+    ],
+    [
+      "Pi2-li7-si5",
+      "Pí-lī-sî"
+    ],
+    [
+      "Hoat-gi2",
+      "Hoat-gí"
+    ],
+    [
+      "chui2",
+      "chúi"
+    ],
+    [
+      "chui2-gu5",
+      "chúi-gû"
+    ],
+    [
+      "Kng2-tang",
+      "Kńg-tang"
+    ],
+    [
+      "Tiong-hoa5 Jin5-bin5 Kiong7-ho5-kok",
+      "Tiong-hôa Jîn-bîn Kiōng-hô-kok"
+    ],
+    [
+      "Tiong-hoâ Jîn-bîn Kiōng-hô-kok",
+      "Tiong-hôa Jîn-bîn Kiōng-hô-kok"
+    ],
+    [
+      "Chûng-ko̍k",
+      "Chûng-koet"
+    ],
+    [
+      "Pe̍t-kîn",
+      "Pet-kîn"
+    ],
+    [
+      "Pe̍t-mí-chiû",
+      "Pet-mí-chiû"
+    ],
+    [
+      "Fî-lip-pîn",
+      "Fî-li̍t-pîn"
+    ],
+    [
+      "Làm-mí-chiû",
+      "Nàm-mí-chiû"
+    ],
+    [
+      "Khí-tái",
+      "khí-tái"
+    ],
+    [
+      "a-ian5",
+      "a-iân"
+    ],
+    [
+      "bang2",
+      "báng"
+    ],
+    [
+      "bi7-kak he7-thong2",
+      "bī-kak hē-thóng"
+    ],
+    [
+      "bok8-koe",
+      "bo̍k-koe"
+    ],
+    [
+      "chat-kha tong7-but8",
+      "chat-kha tōng-bu̍t"
+    ],
+    [
+      "chhi7-leng tong7-but8",
+      "chhī-leng tōng-bu̍t"
+    ],
+    [
+      "chiau2-lo5",
+      "chiáu-lô"
+    ],
+    [
+      "eng-a2",
+      "eng-á"
+    ],
+    [
+      "ge5-chiu-penn7-hak8",
+      "gê-chiu-pēⁿ-ha̍k"
+    ],
+    [
+      "geh8-piann2",
+      "ge̍h-piáⁿ"
+    ],
+    [
+      "ge5-i-hak8",
+      "gê-i-ha̍k"
+    ],
+    [
+      "hai2-be2",
+      "hái-bé"
+    ],
+    [
+      "hian5-bu2-giam5",
+      "hiân-bú-giâm"
+    ],
+    [
+      "hiu3-kak he7-thong2",
+      "hiù-kak hē-thóng"
+    ],
+    [
+      "hoe2-chioh8",
+      "hoé-chio̍h"
+    ],
+    [
+      "Hui-lip8-pin Kiong7-ho5-kok",
+      "Hui-li̍p-pin Kiōng-hô-kok"
+    ],
+    [
+      "ka-ka-a2",
+      "ka-ka-á"
+    ],
+    [
+      "khi2-gok8 kiau2-cheng3-hak8",
+      "khí-go̍k kiáu-chèng-ha̍k"
+    ],
+    [
+      "khi2-tai2",
+      "khí-tái"
+    ],
+    [
+      "ki3-ek",
+      "kì-ek"
+    ],
+    [
+      "koa-chhiu2",
+      "koa-chhiú"
+    ],
+    [
+      "kut he7-thong2",
+      "kut hē-thóng"
+    ],
+    [
+      "senn-thoann3 he7-thong2",
+      "seⁿ-thoàⁿ hē-thóng"
+    ],
+    [
+      "si7-kak he7-thong2",
+      "sī-kak hē-thóng"
+    ],
+    [
+      "si5-ke3-ko2",
+      "sî-kè-kó"
+    ],
+    [
+      "Sin-ka-pho Kiong7-ho5-kok",
+      "Sin-ka-pho Kiōng-hô-kok"
+    ],
+    [
+      "sin5-keng he7-thong2",
+      "sîn-keng hē-thóng"
+    ],
+    [
+      "sin-the2",
+      "sin-thé"
+    ],
+    [
+      "soann",
+      "soaⁿ"
+    ],
+    [
+      "sun5-khoan5 he7-thong2",
+      "sûn-khoân hē-thóng"
+    ],
+    [
+      "tang5",
+      "tâng"
+    ],
+    [
+      "the2-kak he7-thong2",
+      "thé-kak hē-thóng"
+    ],
+    [
+      "theng3-kak he7-thong2",
+      "thèng-kak hē-thóng"
+    ],
+    [
+      "ti-kak he7-thong2",
+      "ti-kak hē-thóng"
+    ],
+    [
+      "ui7",
+      "ūi"
+    ],
+    [
+      "tiān-oē",
+      "tiān-ōe"
+    ],
+    [
+      "turtle dove",
+      "turtledove"
+    ],
+    [
+      "شَخص",
+      "شخص"
+    ],
+    [
+      "Arabisk",
+      "arabisk"
+    ],
+    [
+      "melon d’eau",
+      "melon d'eau"
+    ],
+    [
+      "feu d’artifice",
+      "feu d'artifice"
+    ],
+    [
+      "People’s Republic of China",
+      "People's Republic of China"
+    ],
+    [
+      "台語",
+      "臺語"
+    ],
+    [
+      "罗网",
+      "羅網"
+    ],
+    [
+      "鲈鳗",
+      "鱸鰻"
+    ],
+    [
+      "台灣",
+      "臺灣"
+    ],
+    [
+      "对不起",
+      "對不起"
+    ],
+    [
+      "参与",
+      "參與"
+    ],
+    [
+      "阿里不达",
+      "阿里不達"
+    ],
+    [
+      "阿妈",
+      "阿媽"
+    ],
+    [
+      "贺礼",
+      "賀禮"
+    ],
+    [
+      "威胁",
+      "威脅"
+    ],
+    [
+      "海关",
+      "海關"
+    ],
+    [
+      "传奇",
+      "傳奇"
+    ],
+    [
+      "权威",
+      "權威"
+    ],
+    [
+      "烦恼",
+      "煩惱"
+    ],
+    [
+      "挂心",
+      "掛心"
+    ],
+    [
+      "阿弥陀佛",
+      "阿彌陀佛"
+    ],
+    [
+      "阿婶",
+      "阿嬸"
+    ],
+    [
+      "阿里山乡",
+      "阿里山鄉"
+    ],
+    [
+      "阿里关",
+      "阿里關"
+    ],
+    [
+      "阿罩雾",
+      "阿罩霧"
+    ],
+    [
+      "阿里山线",
+      "阿里山線"
+    ],
+    [
+      "阿莲乡",
+      "阿蓮鄉"
+    ],
+    [
+      "伪造",
+      "偽造"
+    ],
+    [
+      "面粉",
+      "麵粉"
+    ],
+    [
+      "粿仔条",
+      "粿仔條"
+    ],
+    [
+      "面粉粿",
+      "麵粉粿"
+    ],
+    [
+      "面粉粿仔",
+      "麵粉粿仔"
+    ],
+    [
+      "压",
+      "壓"
+    ],
+    [
+      "压味",
+      "壓味"
+    ],
+    [
+      "压霸",
+      "壓霸"
+    ],
+    [
+      "压力",
+      "壓力"
+    ],
+    [
+      "压迫",
+      "壓迫"
+    ],
+    [
+      "血压",
+      "血壓"
+    ],
+    [
+      "气压",
+      "氣壓"
+    ],
+    [
+      "高血压",
+      "高血壓"
+    ],
+    [
+      "镇压",
+      "鎮壓"
+    ],
+    [
+      "压缩",
+      "壓縮"
+    ],
+    [
+      "竹鸡仔",
+      "竹雞仔"
+    ],
+    [
+      "压制",
+      "壓制"
+    ],
+    [
+      "眼压",
+      "眼壓"
+    ],
+    [
+      "高压",
+      "高壓"
+    ],
+    [
+      "施压",
+      "施壓"
+    ],
+    [
+      "电压",
+      "電壓"
+    ],
+    [
+      "水压",
+      "水壓"
+    ],
+    [
+      "竹鸡",
+      "竹雞"
+    ],
+    [
+      "恶霸",
+      "惡霸"
+    ],
+    [
+      "霸权",
+      "霸權"
+    ],
+    [
+      "圣人",
+      "聖人"
+    ],
+    [
+      "五尘",
+      "五塵"
+    ],
+    [
+      "仔细",
+      "仔細"
+    ],
+    [
+      "苹果",
+      "蘋果"
+    ],
+    [
+      "点钟",
+      "點鐘"
+    ],
+    [
+      "麦当劳",
+      "麥當勞"
+    ],
+    [
+      "电子",
+      "電子"
+    ],
+    [
+      "铁马",
+      "鐵馬"
+    ],
+    [
+      "总统",
+      "總統"
+    ],
+    [
+      "法国",
+      "法國"
+    ],
+    [
+      "食㬵",
+      "食膠"
+    ],
+    [
+      "密实",
+      "密實"
+    ],
+    [
+      "亲姆",
+      "親姆"
+    ],
+    [
+      "鸭仔",
+      "鴨仔"
+    ],
+    [
+      "鸭仔瘅",
+      "鴨仔癉"
+    ],
+    [
+      "鸭咪仔",
+      "鴨咪仔"
+    ],
+    [
+      "嗳仔",
+      "噯仔"
+    ],
+    [
+      "暗间仔",
+      "暗間仔"
+    ],
+    [
+      "尪仔标",
+      "尪仔標"
+    ],
+    [
+      "尪仔头",
+      "尪仔頭"
+    ],
+    [
+      "红婴仔",
+      "紅嬰仔"
+    ],
+    [
+      "红豆",
+      "紅豆"
+    ],
+    [
+      "红豆仔",
+      "紅豆仔"
+    ],
+    [
+      "飞机",
+      "飛機"
+    ],
+    [
+      "红葱仔头",
+      "紅蔥仔頭"
+    ],
+    [
+      "盒仔饼",
+      "盒仔餅"
+    ],
+    [
+      "哑巴",
+      "啞巴"
+    ],
+    [
+      "肉鱼仔",
+      "肉魚仔"
+    ],
+    [
+      "肉鲫仔",
+      "肉鯽仔"
+    ],
+    [
+      "肉鸡仔",
+      "肉雞仔"
+    ],
+    [
+      "墨贼仔",
+      "墨賊仔"
+    ],
+    [
+      "网仔",
+      "網仔"
+    ],
+    [
+      "麦仔酒",
+      "麥仔酒"
+    ],
+    [
+      "麦仔",
+      "麥仔"
+    ],
+    [
+      "马仔",
+      "馬仔"
+    ],
+    [
+      "麦仔茶",
+      "麥仔茶"
+    ],
+    [
+      "欢迎",
+      "歡迎"
+    ],
+    [
+      "冷静",
+      "冷靜"
+    ],
+    [
+      "谢天谢地",
+      "謝天謝地"
+    ],
+    [
+      "米仔麸",
+      "米仔麩"
+    ],
+    [
+      "米酒头仔",
+      "米酒頭仔"
+    ],
+    [
+      "风雨",
+      "風雨"
+    ],
+    [
+      "无情",
+      "無情"
+    ],
+    [
+      "会当",
+      "會當"
+    ],
+    [
+      "风箏",
+      "風箏"
+    ],
+    [
+      "报仇",
+      "報仇"
+    ],
+    [
+      "对牛读经",
+      "對牛讀經"
+    ],
+    [
+      "对牛弹琴",
+      "對牛彈琴"
+    ],
+    [
+      "详细",
+      "詳細"
+    ],
+    [
+      "财团法人",
+      "財團法人"
+    ],
+    [
+      "热心",
+      "熱心"
+    ],
+    [
+      "丰沛",
+      "豐沛"
+    ],
+    [
+      "暗光鸟",
+      "暗光鳥"
+    ],
+    [
+      "牛屎鸟仔",
+      "牛屎鳥仔"
+    ],
+    [
+      "粉鸟",
+      "粉鳥"
+    ],
+    [
+      "客鸟",
+      "客鳥"
+    ],
+    [
+      "鸟",
+      "鳥"
+    ],
+    [
+      "气流",
+      "氣流"
+    ],
+    [
+      "结冰",
+      "結冰"
+    ],
+    [
+      "凉风",
+      "涼風"
+    ],
+    [
+      "冷风",
+      "冷風"
+    ],
+    [
+      "洋伞",
+      "洋傘"
+    ],
+    [
+      "欢喜",
+      "歡喜"
+    ],
+    [
+      "飘扬",
+      "飄揚"
+    ],
+    [
+      "声音",
+      "聲音"
+    ],
+    [
+      "山脉",
+      "山脈"
+    ],
+    [
+      "竞争",
+      "競爭"
+    ],
+    [
+      "日记",
+      "日記"
+    ],
+    [
+      "请教",
+      "請教"
+    ],
+    [
+      "请问",
+      "請問"
+    ],
+    [
+      "幼腻",
+      "幼膩"
+    ],
+    [
+      "电",
+      "電"
+    ],
+    [
+      "冻",
+      "凍"
+    ],
+    [
+      "树荫",
+      "樹蔭"
+    ],
+    [
+      "紫外线",
+      "紫外線"
+    ],
+    [
+      "笑纳",
+      "笑納"
+    ],
+    [
+      "怀孕",
+      "懷孕"
+    ],
+    [
+      "推诿",
+      "推諉"
+    ],
+    [
+      "拦阻",
+      "攔阻"
+    ],
+    [
+      "注定",
+      "註定"
+    ],
+    [
+      "轻银",
+      "輕銀"
+    ],
+    [
+      "矿",
+      "礦"
+    ],
+    [
+      "矿物",
+      "礦物"
+    ],
+    [
+      "矿石",
+      "礦石"
+    ],
+    [
+      "盛会",
+      "盛會"
+    ],
+    [
+      "牌楼",
+      "牌樓"
+    ],
+    [
+      "密码",
+      "密碼"
+    ],
+    [
+      "钢铁",
+      "鋼鐵"
+    ],
+    [
+      "蜡",
+      "蠟"
+    ],
+    [
+      "蜡烛",
+      "蠟燭"
+    ],
+    [
+      "休闲",
+      "休閒"
+    ],
+    [
+      "冬虫夏草",
+      "冬蟲夏草"
+    ],
+    [
+      "冬虫",
+      "冬蟲"
+    ],
+    [
+      "气体",
+      "氣體"
+    ],
+    [
+      "正义",
+      "正義"
+    ],
+    [
+      "牵连",
+      "牽連"
+    ],
+    [
+      "朱鹭",
+      "朱鷺"
+    ],
+    [
+      "熟铁",
+      "熟鐵"
+    ],
+    [
+      "生铁",
+      "生鐵"
+    ],
+    [
+      "涂炭",
+      "塗炭"
+    ],
+    [
+      "自来水",
+      "自來水"
+    ],
+    [
+      "石头",
+      "石頭"
+    ],
+    [
+      "武术",
+      "武術"
+    ],
+    [
+      "领土",
+      "領土"
+    ],
+    [
+      "菜鸟",
+      "菜鳥"
+    ],
+    [
+      "菜鸟仔",
+      "菜鳥仔"
+    ],
+    [
+      "元勋",
+      "元勳"
+    ],
+    [
+      "元勛",
+      "元勳"
+    ],
+    [
+      "侬",
+      "儂"
+    ],
+    [
+      "放弃",
+      "放棄"
+    ],
+    [
+      "反对",
+      "反對"
+    ],
+    [
+      "電台",
+      "電臺"
+    ],
+    [
+      "癩爛癆",
+      "癩(疒哥)爛癆"
+    ],
+    [
+      "添妝",
+      "添粧"
+    ],
+    [
+      "啥人",
+      "啥儂"
+    ],
+    [
+      "頭頁",
+      "Thâu-ia̍h"
+    ],
+    [
+      "高雄市",
+      "高雄"
+    ],
+    [
+      "妈妈",
+      "媽媽"
+    ],
+    [
+      "妈",
+      "媽"
+    ],
+    [
+      "为",
+      "為"
+    ],
+    [
+      "中国",
+      "中國"
+    ],
+    [
+      "中华人民共和国",
+      "中華人民共和國"
+    ],
+    [
+      "中华民国",
+      "中華民國"
+    ],
+    [
+      "国家",
+      "國家"
+    ],
+    [
+      "记忆",
+      "記憶"
+    ],
+    [
+      "马",
+      "馬"
+    ],
+    [
+      "经",
+      "經"
+    ],
+    [
+      "Templat:ru-nm-dk-tb-a",
+      "Pang-bô͘:ru-nm-dk-tb-a"
+    ],
+    [
+      "информа́тика",
+      "информатика"
+    ],
+    [
+      "麻糬",
+      "麻糍"
+    ],
+    [
+      "麻粢",
+      "麻糍"
+    ],
+    [
+      "(亻因)",
+      "𪜶"
+    ],
+    [
+      "(冫彥)水",
+      "𫝏水"
+    ],
+    [
+      "(冫彥)鋼",
+      "𫝏鋼"
+    ],
+    [
+      "(口霧)水",
+      "𫝞水"
+    ],
+    [
+      "(相同)勻",
+      "𫝛勻"
+    ],
+    [
+      "(相同)款",
+      "𫝛款"
+    ],
+    [
+      "(相同)途",
+      "𫝛途"
+    ],
+    [
+      "(虫台)",
+      "𧉟"
+    ],
+    [
+      "(立在)",
+      "𫞼"
+    ],
+    [
+      "(足百)",
+      "𬦰"
+    ],
+    [
+      "(足百)懸(足百)低",
+      "𬦰懸𬦰低"
+    ],
+    [
+      "(足百)樓梯",
+      "𬦰樓梯"
+    ],
+    [
+      "(月函)",
+      "𦜆"
+    ],
+    [
+      "อาเซอร์ไบจัน",
+      "อาเซอร์ไบจาน"
+    ],
+    [
+      "Tâi-ôan",
+      "Tâi-oân"
+    ],
+    [
+      "年",
+      "𫝛年"
+    ],
+    [
+      "時",
+      "𫝛時"
+    ],
+    [
+      "lāu--kì",
+      "lāu--khì"
+    ],
+    [
+      "Ngi̍t-pún",
+      "Ngit-pún"
+    ],
+    [
+      "加車籐",
+      "枷車籐"
+    ],
+    [
+      "Khe-ko-á",
+      "khe-ko-á"
+    ],
+    [
+      "Appendix:ENPRON",
+      "Appendix:Eng-gí ê hoat-im"
+    ],
+    [
+      "Appendix:Hiragana script",
+      "Appendix:Hiragana"
+    ],
+    [
+      "Appendix:Katakana script",
+      "Appendix:Katakana"
+    ],
+    [
+      "མིག་",
+      "མིག"
+    ],
+    [
+      "Kioh-siàu",
+      "kioh-siàu"
+    ],
+    [
+      "R:nan:教典",
+      "Pang-bô͘:R:nan:kip"
+    ],
+    [
+      "biō tián",
+      "biō-tián"
+    ],
+    [
+      "Lé-seng",
+      "lé-seng"
+    ],
+    [
+      "آلماني",
+      "آلمانی"
+    ],
+    [
+      "koaⁿ-chiòng-siú",
+      "Koan-chiòng-siú"
+    ],
+    [
+      "Jī-kiat Ōng-kong",
+      "Jī-kiat Ông-kong"
+    ],
+    [
+      "Тайская",
+      "тайская"
+    ]
+  ],
+  "skipped_headings": [
+    [
+      "音",
+      15718
+    ],
+    [
+      "Lē-kù",
+      275
+    ],
+    [
+      "Kàu-io̍k-pō͘ peng-im",
+      235
+    ],
+    [
+      "Chham-khó",
+      172
+    ],
+    [
+      "Chham-khó Lâi-goân",
+      100
+    ],
+    [
+      "Sio̍k-gí",
+      85
+    ],
+    [
+      "相siâng",
+      78
+    ],
+    [
+      "Chham-khó 參考",
+      16
+    ],
+    [
+      "Khiuⁿ-kháu",
+      13
+    ],
+    [
+      "參考資料",
+      12
+    ],
+    [
+      "Lēkù",
+      10
+    ],
+    [
+      "字源",
+      8
+    ],
+    [
+      "發音",
+      5
+    ],
+    [
+      "Siong-koan",
+      4
+    ],
+    [
+      "Sû-goân",
+      4
+    ],
+    [
+      "sio̍k-gí",
+      4
+    ],
+    [
+      "外部連結",
+      4
+    ],
+    [
+      "Gān-gí",
+      3
+    ],
+    [
+      "Kî-tha sû-tián",
+      3
+    ],
+    [
+      "Tha̍k",
+      3
+    ],
+    [
+      "例",
+      3
+    ],
+    [
+      "Chham-khó lâi-goân",
+      2
+    ],
+    [
+      "Khiuⁿ-káu",
+      2
+    ],
+    [
+      "Lē",
+      2
+    ],
+    [
+      "Miâ-sû",
+      2
+    ],
+    [
+      "Ōe-kù",
+      2
+    ],
+    [
+      "異用字",
+      2
+    ],
+    [
+      "Chham-kiàn",
+      1
+    ],
+    [
+      "Ha̍p-sêng-sû",
+      1
+    ],
+    [
+      "Hoat-im",
+      1
+    ]
+  ]
+}
